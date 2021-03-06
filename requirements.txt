@@ -1,0 +1,6 @@
+pylint
+rope
+autopep8
+pandas
+geopandas
+matplotlib
